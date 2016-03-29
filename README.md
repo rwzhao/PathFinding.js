@@ -1,3 +1,5 @@
+#(JS)寻路算法库PathFinding.js及可视化Demo
+
 PathFinding.js
 ==============
 #### A comprehensive path-finding library in javascript. ####
